@@ -38,5 +38,4 @@ async def on_message(message):
             await message.channel.send("I'm really impressed with Chappy's self-confidence, particularly in difficult "
                                        "situations. I hope I can learn from that one day. ")
 
-# bot.run(os.getenv("TOKEN"))
-bot.run('OTc4NDU0MDYwOTk2ODg2NTg5.GDSKC5.K_El1UdX8VVR4IvLudER7bo2T0BnUiHoJJHnH8')
+bot.run(os.getenv("TOKEN"))
